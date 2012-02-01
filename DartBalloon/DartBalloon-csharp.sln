@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{DD05C3E4-CDEE-4D7C-E49F-ED588144FC6A}") = "DartBalloon", "Assembly-CSharp-firstpass-vs.csproj", "{5426AA77-5862-C7C6-FF02-BB1D7F306EDB}"
+EndProject
+Project("{DD05C3E4-CDEE-4D7C-E49F-ED588144FC6A}") = "DartBalloon", "Assembly-CSharp-vs.csproj", "{BADD0BB9-9DEF-AB24-ABFF-7103FFE6EC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5426AA77-5862-C7C6-FF02-BB1D7F306EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5426AA77-5862-C7C6-FF02-BB1D7F306EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5426AA77-5862-C7C6-FF02-BB1D7F306EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5426AA77-5862-C7C6-FF02-BB1D7F306EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADD0BB9-9DEF-AB24-ABFF-7103FFE6EC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADD0BB9-9DEF-AB24-ABFF-7103FFE6EC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADD0BB9-9DEF-AB24-ABFF-7103FFE6EC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADD0BB9-9DEF-AB24-ABFF-7103FFE6EC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
