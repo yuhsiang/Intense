@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\DartMovement.cs" />
+     <Compile Include="Assets\scripts\animation.cs" />
      <Compile Include="Assets\scripts\score.cs" />
      <None Include="Assets\Standard Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
   </ItemGroup>
